@@ -124,27 +124,19 @@ img {
 .gallery span {
 	color: grey;
 	display: inline-block;
-    display: block;
-    margin-top: 10px;
+        display: block;
+         margin-top: 10px;
 }
 .gallery h2{color: grey;
 	 padding: 7% 0;
    
 }
-.gallery p{color: grey;
-	 text-align: justify;
-  text-justify: inter-word;
-   
+.gallery p{
+       color: grey;
+	text-align: justify;
+       text-justify: inter-word;
 }
 /* newsletter section */
-
-.newsletter-section{
-
-  
-   
- 
-
-}
 .newsletter-section {
     width: 100%;
   
@@ -227,7 +219,7 @@ button {
    
     margin-bottom:3.5%; 
 }
-b {    font-weight: bold
+b { font-weight: bold;
     font-size: 20px;
     color: #565555;
 
@@ -266,11 +258,11 @@ footer {
     font-size: 18px;
 }
 .social-menu {
-    width: 		13%;
+    width:9%;
     display: inline-block;
 
-margin-left: 36%;
-    }
+    margin-left: 36%;
+}
  .social-menu  ul {
     list-style-type: none;
 }
